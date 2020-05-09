@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.Text;
+﻿using Interfaces.DbService;
+using System;
 
 namespace DbService
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
-    public class DbService : IDbService
+    public class HeroStatisticService : IHeroStatisticService
     {
         public string GetData(int value)
         {
