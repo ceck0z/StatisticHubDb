@@ -15,6 +15,11 @@ namespace DbService
             return string.Format("You entered: {0}", value);
         }
 
+        public string DbProjectServiceCall()
+        {
+            return "Hello, i am service that will return data from database.";
+        }
+
         public CompositeType GetDataUsingDataContract(CompositeType composite)
         {
             if (composite == null)
