@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EeBin1K4TfS95wsf3UySkomGPpJHHA37rQQxSMuWEa3ect4qEv6TEGmz2xF40pWErXNfXHINEjSQ6cFlqaz2Cg==",
+  "dgSpecHash": "YY+RCKOfNc6DS+fRREiFABexMSsSEmLV4al1fCueBUnk4eqpVdygV4v3bH/1UF0dmesZFM3tKfJxJNV3/MLq3g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
+  "projectFilePath": "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

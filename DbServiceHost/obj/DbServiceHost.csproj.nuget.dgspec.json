@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj": {}
+    "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj": {
+    "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
+        "projectUniqueName": "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
         "projectName": "DbServiceHost",
-        "projectPath": "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
+        "projectPath": "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\DbServiceHost.csproj",
         "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHubDb\\DbServiceHost\\obj\\",
+        "outputPath": "D:\\Projects\\CSharpProjects\\StatDb\\StatisticHubDb\\DbServiceHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
