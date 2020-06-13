@@ -9,3 +9,14 @@ D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbServi
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbService.pdb
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbService.dll.config
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.csproj.CopyComplete
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbServiceHost.exe.config
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbServiceHost.exe
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbServiceHost.pdb
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbService.dll
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbService.pdb
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\bin\Debug\DbService.dll.config
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.csprojAssemblyReference.cache
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.csproj.CopyComplete
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.exe
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbServiceHost\obj\Debug\DbServiceHost.pdb

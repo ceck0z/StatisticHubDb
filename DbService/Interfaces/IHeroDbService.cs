@@ -5,7 +5,7 @@ namespace Interfaces.DbService
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
-    public interface IHeroStatisticService
+    public interface IHeroDbService
     {
         [OperationContract]
         string GetData(int value);
@@ -15,6 +15,9 @@ namespace Interfaces.DbService
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
+
+        [OperationContract]
+        void SayHello(string name);
 
         // TODO: Add your service operations here
     }

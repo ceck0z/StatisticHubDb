@@ -5,3 +5,10 @@ D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.c
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.csproj.CoreCompileInputs.cache
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.dll
 D:\Projects\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.pdb
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\bin\Debug\DbService.dll.config
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\bin\Debug\DbService.dll
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\bin\Debug\DbService.pdb
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.csprojAssemblyReference.cache
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.dll
+D:\Programming\CSharpProjects\StatDb\StatisticHubDb\DbService\obj\Debug\DbService.pdb

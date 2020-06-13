@@ -4,7 +4,7 @@ using System;
 namespace DbService
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
-    public class HeroStatisticService : IHeroStatisticService
+    public class HeroDbService : IHeroDbService
     {
         public string GetData(int value)
         {
@@ -27,6 +27,11 @@ namespace DbService
                 composite.StringValue += "Suffix";
             }
             return composite;
+        }
+
+        public void SayHello(string name)
+        {
+            Console.WriteLine($"Heeeeeeellooooooooo {name}! How ya doin?");
         }
     }
 }

@@ -13,7 +13,7 @@ namespace DbServiceHost
         {
             List<Type> services = new List<Type>()
             {
-                typeof(HeroStatisticService)
+                typeof(HeroDbService)
             };
 
             ServiceHost host = null;
